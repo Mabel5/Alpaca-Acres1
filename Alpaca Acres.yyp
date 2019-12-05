@@ -1,0 +1,1478 @@
+{
+    "id": "95a2a568-56b2-4cb9-a24f-db99295fa31b",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "2525deec-50ad-4c71-b474-6d23d8e72103",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "aeafb684-3c4a-4cd3-9c26-157bf97cdec9",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "02969c88-9254-47e4-b626-e4c9c84aef5f",
+            "Value": {
+                "id": "b7441f72-074b-4cee-a45a-2845cce35dc2",
+                "resourcePath": "objects\\obj_AsparagusHarvest\\obj_AsparagusHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "02dccf69-aa30-49f6-94fe-6137231ff871",
+            "Value": {
+                "id": "7263bd6d-89fa-4bbf-b056-d70d097f20f6",
+                "resourcePath": "sprites\\spr_BellPepper\\spr_BellPepper.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "034c67bf-b377-4a69-b2fe-f85465435939",
+            "Value": {
+                "id": "3be0006e-3ac1-4721-bef6-b9182f5d5764",
+                "resourcePath": "objects\\obj_MushroomSeed\\obj_MushroomSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "08e2c8d8-d6af-47a2-a22d-07e3d2eba734",
+            "Value": {
+                "id": "8933d657-7c84-42c9-810a-f077a2c7bb2f",
+                "resourcePath": "objects\\obj_AsparagusSeed\\obj_AsparagusSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "08f5a95e-1b35-4605-bc3d-85761fc3d7a6",
+            "Value": {
+                "id": "16be3f74-84cf-4536-a730-c7e4e264da85",
+                "resourcePath": "sprites\\spr_ExitCooking\\spr_ExitCooking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0a43ec27-54c4-4782-80c8-d3bb0ccf0dc6",
+            "Value": {
+                "id": "b9fb80fd-0420-4591-85b4-e7aec0ca7969",
+                "resourcePath": "sprites\\spr_ButterNutsSeed\\spr_ButterNutsSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0a572d06-d440-4b1b-9e9a-eb02b438029e",
+            "Value": {
+                "id": "5ae2f52b-59c4-4887-9a18-518b8af86c1d",
+                "resourcePath": "views\\0a572d06-d440-4b1b-9e9a-eb02b438029e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0b249f1d-ba46-44c5-b294-091ae3977cf7",
+            "Value": {
+                "id": "b5b32623-cbdb-40f7-81f4-fa81a9bf1881",
+                "resourcePath": "views\\0b249f1d-ba46-44c5-b294-091ae3977cf7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0b9900ca-9b8f-43c6-af1f-9d13a4423031",
+            "Value": {
+                "id": "dffacf01-6f24-42aa-a5ba-74d4c44dc78c",
+                "resourcePath": "sprites\\spr_OnionHarvest\\spr_OnionHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0cc8000f-a683-4403-a1d6-4c28d6fdfbf5",
+            "Value": {
+                "id": "82094119-44e9-4dcd-b0e1-816e7d0727d5",
+                "resourcePath": "objects\\obj_CookingDish\\obj_CookingDish.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0f69848d-bab6-482e-885e-2c4d045c7735",
+            "Value": {
+                "id": "9f22f518-2bd9-4ef2-b294-04723b4f56af",
+                "resourcePath": "objects\\obj_SeedBluePrint\\obj_SeedBluePrint.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0f9e5080-c997-4b3a-8c8d-1266e64df407",
+            "Value": {
+                "id": "e90f812c-49bc-4ac4-91aa-dedca645e521",
+                "resourcePath": "sprites\\spr_MouseButtons\\spr_MouseButtons.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "106a297e-9864-410d-9b24-ffa7aac03c30",
+            "Value": {
+                "id": "1be56c99-9923-4c3b-8535-721fa60e6869",
+                "resourcePath": "objects\\obj_HarvestManager\\obj_HarvestManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "10cf483a-f549-4d4e-9555-2ce30d5d605c",
+            "Value": {
+                "id": "e0fa843e-e7a5-4fe8-a54f-5d285f60e370",
+                "resourcePath": "sprites\\spr_ButterNuts\\spr_ButterNuts.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "11229d84-4bf7-4d2d-8219-4c82980acc15",
+            "Value": {
+                "id": "f24faaad-3fed-4f9e-811c-a0cb9a2015be",
+                "resourcePath": "views\\11229d84-4bf7-4d2d-8219-4c82980acc15.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "11a65db8-26d8-4ce7-b152-8c258a955787",
+            "Value": {
+                "id": "36bdbe0a-b021-4c96-976c-417e51f2b2aa",
+                "resourcePath": "rooms\\Cooking\\Cooking.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "130319a1-fc01-4b94-9f04-10e2066cfe6e",
+            "Value": {
+                "id": "317a2bfd-05c0-4802-bf7f-bb12f6fe0e45",
+                "resourcePath": "sprites\\Seeds\\Seeds.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1304b796-c095-4866-8ca9-783ccf808cc5",
+            "Value": {
+                "id": "6eab6e86-4932-4989-b663-fc3d5082efe3",
+                "resourcePath": "sprites\\spr_TomatoHarvest\\spr_TomatoHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "13091aab-ddd0-43f0-aafe-1b5db8c3d434",
+            "Value": {
+                "id": "c0e9ba13-3bc6-4179-b6a7-57bae9daf229",
+                "resourcePath": "sprites\\spr_LettuceSeed\\spr_LettuceSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1352d543-de7f-4e45-8b54-681c22f067fc",
+            "Value": {
+                "id": "d636123a-fad7-42f3-9a43-0c44b39124b7",
+                "resourcePath": "views\\1352d543-de7f-4e45-8b54-681c22f067fc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "13ff557b-d639-4d34-ad8a-1823e585f74f",
+            "Value": {
+                "id": "579e9f98-4eb2-48c1-8cc7-3e0068b318ae",
+                "resourcePath": "views\\13ff557b-d639-4d34-ad8a-1823e585f74f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "141adf9a-9e55-4f93-bd54-4aaa0e259a59",
+            "Value": {
+                "id": "44b9bd79-3eb0-481c-90e4-ee3969eb165b",
+                "resourcePath": "objects\\obj_CreamedCorn\\obj_CreamedCorn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "147faa22-1196-4263-86cb-16d702cd8406",
+            "Value": {
+                "id": "796a349f-7e7a-4a88-b182-815f97c0b105",
+                "resourcePath": "views\\147faa22-1196-4263-86cb-16d702cd8406.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "14cfb453-1f51-4cdf-bda0-8532eee0bc90",
+            "Value": {
+                "id": "d892707e-d44c-48ff-84b2-017f1cce93b1",
+                "resourcePath": "views\\14cfb453-1f51-4cdf-bda0-8532eee0bc90.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1634a611-d75b-497f-9a42-96e845e8ecf2",
+            "Value": {
+                "id": "ad52a41f-eca1-4046-8e79-c9c624d1ea0d",
+                "resourcePath": "sprites\\spr_Mushroom\\spr_Mushroom.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "183732dd-693c-44a8-b75a-32e07cabee16",
+            "Value": {
+                "id": "2d555004-556d-4229-a5be-173360af47eb",
+                "resourcePath": "objects\\obj_CornSeed\\obj_CornSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1922a580-c49b-4b3b-8179-de82000c8225",
+            "Value": {
+                "id": "b2a5a459-c17d-4478-b4ab-93a19c0b9721",
+                "resourcePath": "sprites\\spr_Onion\\spr_Onion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "19802831-6cc1-4473-a8bd-92b45449d8e5",
+            "Value": {
+                "id": "a6ea9160-69cb-401c-b916-e9429ad3e63e",
+                "resourcePath": "objects\\obj_GameTimeManager\\obj_GameTimeManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1a1f2666-3fc5-4ad7-a868-6e9346768098",
+            "Value": {
+                "id": "88cde150-6fbc-473b-8320-1f882521dc5d",
+                "resourcePath": "sprites\\spr_CabbageSeed\\spr_CabbageSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1c26b41b-491d-4ca6-8cb4-2216d82e0f0a",
+            "Value": {
+                "id": "e990bc66-b80a-46dd-88b1-f27045cb4822",
+                "resourcePath": "sprites\\spr_Spinach\\spr_Spinach.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1d70ef6f-bbd7-40d5-85ba-0c255cfdc0e6",
+            "Value": {
+                "id": "964ec3f4-f463-44c2-b7ae-a23bd1d0ef2b",
+                "resourcePath": "sprites\\spr_CabbageHarvest\\spr_CabbageHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1ea5bb4c-aec4-4595-9de0-07439493e970",
+            "Value": {
+                "id": "7888733e-7967-42a6-aba0-443257db6bd4",
+                "resourcePath": "views\\1ea5bb4c-aec4-4595-9de0-07439493e970.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1f872893-0c52-44e6-a79a-f3e78ed36958",
+            "Value": {
+                "id": "3e75dfba-72c4-4648-86ca-24a8648b78d7",
+                "resourcePath": "sprites\\spr_CornChowder\\spr_CornChowder.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1fe3a242-63bf-40fb-8cdc-f17f4d3d910a",
+            "Value": {
+                "id": "421db809-52b9-4d79-b1bb-d337d018a26a",
+                "resourcePath": "sprites\\spr_Truck\\spr_Truck.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2049eedb-98ee-463a-a95d-ce68c1950ead",
+            "Value": {
+                "id": "174eb6d6-7681-4adb-91e2-f8f27bc27062",
+                "resourcePath": "objects\\obj_BroccoliSeed\\obj_BroccoliSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "22b5db5f-3cb1-4c0d-97e8-717be12b7c9e",
+            "Value": {
+                "id": "fb56332b-d2e7-48a7-8162-09c85f0cd48b",
+                "resourcePath": "objects\\obj_BellPepperSeed\\obj_BellPepperSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "23d044f9-be1a-452d-bdea-f406610d673b",
+            "Value": {
+                "id": "5361a3e0-bcfe-4d3a-a28c-69f85989fd5c",
+                "resourcePath": "objects\\obj_WheatHarvest\\obj_WheatHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "24632497-dfc9-41c1-874c-143436bb9554",
+            "Value": {
+                "id": "749f60c1-09a8-49e7-a60b-3ee071461062",
+                "resourcePath": "objects\\obj_ButterNutsSeed\\obj_ButterNutsSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "27575d96-8040-40ef-a18f-52b5e682726c",
+            "Value": {
+                "id": "47cf4c81-602e-4760-a74d-21882d07b554",
+                "resourcePath": "objects\\obj_Alpaca\\obj_Alpaca.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "29f1eb9e-475d-42b8-a3ec-76630fd13181",
+            "Value": {
+                "id": "70181ecb-52a1-41b3-96d0-c766ed71e4ac",
+                "resourcePath": "paths\\truckEntry\\truckEntry.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "2b661c17-5ae0-4cc4-9b64-97e2f2b19db5",
+            "Value": {
+                "id": "3430c6a9-68ce-4203-9246-b810f54a7ba4",
+                "resourcePath": "sprites\\spr_BellPepperHarvest\\spr_BellPepperHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2bdcfeac-6535-4bda-8094-91d534d32d24",
+            "Value": {
+                "id": "61c3679d-e2e9-497e-9a43-13e49cbe1dde",
+                "resourcePath": "objects\\obj_TomatoSoup\\obj_TomatoSoup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2c09122e-f602-4004-98ff-c674d2ba16d1",
+            "Value": {
+                "id": "079bdb4e-9202-4391-8f4e-f8aa8bf8c8e5",
+                "resourcePath": "sprites\\spr_AlpacaIdle\\spr_AlpacaIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2ca8abb5-7f13-4993-a804-ba69d68adc7b",
+            "Value": {
+                "id": "e3540c0a-8c44-405b-a44f-3475d360b932",
+                "resourcePath": "sprites\\spr_MushroomSoup\\spr_MushroomSoup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2cddbddb-3c76-441e-ba2d-00d1f388cbe8",
+            "Value": {
+                "id": "8c785fad-8fb5-40ad-8733-260d3db1c1a1",
+                "resourcePath": "views\\2cddbddb-3c76-441e-ba2d-00d1f388cbe8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2dac5c26-bf51-4cf5-9859-83432ae212cc",
+            "Value": {
+                "id": "443713b1-ae87-43b3-8aee-ff533865baa9",
+                "resourcePath": "objects\\obj_CarrotSeed\\obj_CarrotSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "30234295-1ecf-43cb-8b45-010478019e11",
+            "Value": {
+                "id": "8b4ccfd0-b834-4f9d-b250-18fd0c8d8d32",
+                "resourcePath": "objects\\obj_SpinachHarvest\\obj_SpinachHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "31ddfe4c-94a6-46ad-8c6b-63e8b3574696",
+            "Value": {
+                "id": "2785815a-8a51-4c5c-b75b-bd5eba4d90d5",
+                "resourcePath": "objects\\obj_PotatoChowder\\obj_PotatoChowder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "32ec71cf-c153-44ae-b111-5fc57ad9bdcc",
+            "Value": {
+                "id": "f045a7df-daa8-4520-8a75-799dc8af7ffb",
+                "resourcePath": "views\\32ec71cf-c153-44ae-b111-5fc57ad9bdcc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "34d6850f-ab29-4442-b955-da97b7c3a6b7",
+            "Value": {
+                "id": "18a60a30-cfa4-4e1c-aa5a-6033c395d3e2",
+                "resourcePath": "sprites\\spr_GUI\\spr_GUI.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "34f6403f-fc1b-443e-8923-8e8e39006a0e",
+            "Value": {
+                "id": "d4890b0b-3c1f-49b4-8a87-31bdc0c29bea",
+                "resourcePath": "objects\\obj_CornHarvest\\obj_CornHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "36a9592c-d4f0-481c-9518-1baf9a6c19e4",
+            "Value": {
+                "id": "f1dbbaac-4808-4890-9b7c-fcb8c248dc22",
+                "resourcePath": "sprites\\spr_Celery\\spr_Celery.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3955eeeb-4636-4486-8673-d1ebccb181d6",
+            "Value": {
+                "id": "37327559-17a2-47f1-8ac5-2b711badd8fe",
+                "resourcePath": "objects\\obj_PlantingPlot\\obj_PlantingPlot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3b6e25ff-1dd6-41a4-814e-97053bfe2b1f",
+            "Value": {
+                "id": "303354a6-4483-4a24-bd8f-1ffc0b6b3ee7",
+                "resourcePath": "sprites\\spr_KitchenFG\\spr_KitchenFG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3b9bd5b1-7e31-46b6-936d-dc43a94009ec",
+            "Value": {
+                "id": "5be95533-7697-433a-831f-326b74df89ae",
+                "resourcePath": "views\\3b9bd5b1-7e31-46b6-936d-dc43a94009ec.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3beee6fb-63a4-4809-b268-d3351128740b",
+            "Value": {
+                "id": "51b735e7-062c-4c03-a9a1-20b7dc620add",
+                "resourcePath": "views\\3beee6fb-63a4-4809-b268-d3351128740b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "41345885-2bdc-439c-936c-dd9f58bc1610",
+            "Value": {
+                "id": "8b6aba03-1c1a-45a3-8658-1fa4956b9715",
+                "resourcePath": "sprites\\spr_CarrotHarvest\\spr_CarrotHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4748fc86-a5fa-45d5-994c-d130772a8271",
+            "Value": {
+                "id": "30b71782-3d46-40c5-b7a9-9808935a28b2",
+                "resourcePath": "sprites\\spr_ButterNutsHarvest\\spr_ButterNutsHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "49361474-363c-49e7-b339-801a687adb52",
+            "Value": {
+                "id": "5c76b1d9-e748-4807-8884-ad96e7d7c535",
+                "resourcePath": "sprites\\spr_Asparagus\\spr_Asparagus.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "497b3250-568e-402c-9934-3efe56bedb10",
+            "Value": {
+                "id": "80360f2d-4b13-43ae-b59a-add60d4d3dd8",
+                "resourcePath": "sprites\\spr_CarrotSeed\\spr_CarrotSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "49a8728c-f893-4465-8e65-0cef246950f7",
+            "Value": {
+                "id": "eb5edc69-ba0b-4ea5-87a9-ff89ba92e9a0",
+                "resourcePath": "sprites\\spr_PotatoSeed\\spr_PotatoSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "49eabaa8-c5a5-498e-84b9-31bb1c9ab540",
+            "Value": {
+                "id": "13cdbd4f-71b7-4abf-8f3e-726dc56aab86",
+                "resourcePath": "sprites\\spr_CreamedCorn\\spr_CreamedCorn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4a03670a-2b1a-4d6d-b05b-614002493359",
+            "Value": {
+                "id": "c70f434c-a335-4fbd-8d63-f90b9a0cdc26",
+                "resourcePath": "objects\\obj_LettuceHarvest\\obj_LettuceHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4a8bd413-08ca-4915-92f6-25efb54449b7",
+            "Value": {
+                "id": "16227bf1-e7de-48cf-82ef-4423da1f5c9f",
+                "resourcePath": "objects\\obj_HarvestBluePrint\\obj_HarvestBluePrint.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4db80d8c-3b4e-495b-9003-6f8f2acb5c92",
+            "Value": {
+                "id": "0828d429-f9b1-4f77-9c0d-4b7a1a37117f",
+                "resourcePath": "fonts\\fnt_Game\\fnt_Game.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "4f355d37-8cf1-4ae6-bf83-beb8a5e89cf7",
+            "Value": {
+                "id": "21e8c2bc-a8a0-4294-be31-d7e667580c9a",
+                "resourcePath": "sprites\\spr_PotatoChowder\\spr_PotatoChowder.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "51c0ca93-070e-4850-9d2e-ac50d467853e",
+            "Value": {
+                "id": "b04b8916-a7c9-4c26-84e0-4edb2b1668ab",
+                "resourcePath": "rooms\\Win\\Win.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "53c5cfbc-4089-4bbd-af50-2c8120a608fe",
+            "Value": {
+                "id": "570dfb1d-55dc-41fa-9363-3581b6c89fac",
+                "resourcePath": "sprites\\WinText\\WinText.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "54861c73-0f83-4b7f-85f0-a84eadc72eb2",
+            "Value": {
+                "id": "c724cc0f-69bd-4ed5-b488-0b6fc03f2e75",
+                "resourcePath": "objects\\obj_CookingManager\\obj_CookingManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "59171061-1597-4bcb-8f52-484e048fb5bc",
+            "Value": {
+                "id": "17d96ff6-d388-4b7e-b163-70fd3b974166",
+                "resourcePath": "sprites\\spr_Potato\\spr_Potato.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5bc76288-2183-403f-9b3c-b037c424d9bd",
+            "Value": {
+                "id": "efe589e1-6cbc-4353-b735-22d214c7411d",
+                "resourcePath": "sprites\\spr_CabbageSoup\\spr_CabbageSoup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5ea70ec9-201d-4f7a-bcdb-089d6f7e7f2d",
+            "Value": {
+                "id": "cfba09c3-9c7f-4e9f-a9e0-d78e6e717f27",
+                "resourcePath": "sprites\\spr_TomatoSoup\\spr_TomatoSoup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5ef60a05-41ce-4bda-9ddb-5f8b99e51102",
+            "Value": {
+                "id": "c977a94a-e55a-4f20-b1e4-32a609a60b82",
+                "resourcePath": "sprites\\spr_Tomato\\spr_Tomato.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5f1653a3-a352-4a68-8a27-bb0ee366ac6f",
+            "Value": {
+                "id": "09456fe6-63f8-41ce-bd01-ad3b2af4d1dd",
+                "resourcePath": "sprites\\spr_Cabbage\\spr_Cabbage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "60117b26-3078-4fe1-a0ed-c381f33f26f2",
+            "Value": {
+                "id": "b2baf566-ec7b-4aa4-9e8e-1fd5be116f7f",
+                "resourcePath": "sprites\\spr_CookingSquare\\spr_CookingSquare.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "61098115-4c74-4b37-9869-836995a4d7ff",
+            "Value": {
+                "id": "73e49175-5568-43e1-8554-90c516f82a16",
+                "resourcePath": "objects\\obj_TomatoSeed\\obj_TomatoSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "62e84b88-c6bd-4432-8906-c11107eba416",
+            "Value": {
+                "id": "37cadcb7-fd0e-4089-8728-bf784b07f526",
+                "resourcePath": "objects\\obj_CelerySeed\\obj_CelerySeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "62e92b91-459e-4930-a43d-51ced5617d0b",
+            "Value": {
+                "id": "e7cc3056-07fd-4b4d-8e35-5b76de89b527",
+                "resourcePath": "views\\62e92b91-459e-4930-a43d-51ced5617d0b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "63a44bbd-4264-4171-95dd-a70e9fcb276a",
+            "Value": {
+                "id": "cc65752d-b8f4-4547-931b-976fe8942421",
+                "resourcePath": "objects\\obj_LettuceSeed\\obj_LettuceSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "65b7e890-5608-4dcd-b3c2-171315257128",
+            "Value": {
+                "id": "0917ee21-264a-4241-b926-b0de1fa166e3",
+                "resourcePath": "views\\65b7e890-5608-4dcd-b3c2-171315257128.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "694f736d-64dc-420a-afa0-e61d62de12d8",
+            "Value": {
+                "id": "7fac9c0a-d31e-4bd2-9347-d78c9e348db0",
+                "resourcePath": "sprites\\spr_PlayButton\\spr_PlayButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6b8fccd8-b04f-4c45-953a-803c077e8a6a",
+            "Value": {
+                "id": "da15f2bb-adb0-4c95-bbeb-b6ce9d53f065",
+                "resourcePath": "objects\\obj_CabbageHarvest\\obj_CabbageHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6c8bcb99-959a-413b-a272-1e7d69e59433",
+            "Value": {
+                "id": "de76fbb6-ddc8-4746-9fce-51f455435b3d",
+                "resourcePath": "sprites\\spr_WheatHarvest\\spr_WheatHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6e5bb7a6-4282-480d-b3c0-86dd800d0fb1",
+            "Value": {
+                "id": "69faa64f-bf3d-47fc-a2c0-c12f6bcfc0f2",
+                "resourcePath": "sprites\\spr_OnionSeed\\spr_OnionSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6e6803d1-4125-4b90-82eb-fb6ba7c38d73",
+            "Value": {
+                "id": "cf7cd17f-b9c5-4a47-bb7c-0e69baab44fb",
+                "resourcePath": "paths\\truckExit\\truckExit.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "73b9714f-b5bf-461d-9904-c5e26901cf33",
+            "Value": {
+                "id": "b5a9bd7d-170e-498d-b686-1ab5c4a897d5",
+                "resourcePath": "sprites\\spr_LettuceHarvest\\spr_LettuceHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "79a79346-f12f-4bdf-b192-ea09875c7ef2",
+            "Value": {
+                "id": "d14cb7b9-89e1-4674-98b4-4331637976e1",
+                "resourcePath": "objects\\obj_PlayButton\\obj_PlayButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7c1e4874-35df-4523-ac10-35dd90eae332",
+            "Value": {
+                "id": "baae605d-c90e-4181-9fe5-44e9e3477b76",
+                "resourcePath": "objects\\obj_ButterNutsHarvest\\obj_ButterNutsHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7c398f3c-7184-4612-9742-db49eebf8af0",
+            "Value": {
+                "id": "c877ec27-6cfa-4bfa-bc30-d6d01765c468",
+                "resourcePath": "sprites\\spr_PotatoHarvest\\spr_PotatoHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7da44aea-3dbe-416e-8b33-05d579035f8a",
+            "Value": {
+                "id": "05b1ba07-0e8a-46e8-8387-9eaac79d7470",
+                "resourcePath": "sprites\\spr_Background\\spr_Background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8060091a-601a-4451-8f34-bc8ebb63b939",
+            "Value": {
+                "id": "0cd9b2a2-cf8e-442b-8faa-595ef31105c6",
+                "resourcePath": "views\\8060091a-601a-4451-8f34-bc8ebb63b939.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "82480528-9978-468d-a8bf-67628967cc1c",
+            "Value": {
+                "id": "99ac5173-e2d2-4e40-879e-c7d44b3b1279",
+                "resourcePath": "sprites\\spr_CornHarvest\\spr_CornHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "838a15ee-8870-4cc5-809e-9c19f108f1a6",
+            "Value": {
+                "id": "642c540a-2181-489f-8420-b820e19157fc",
+                "resourcePath": "objects\\obj_RoastedSquash\\obj_RoastedSquash.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "85d9112d-710a-47b9-95c9-1e06f8697e1e",
+            "Value": {
+                "id": "b7ccf479-e776-46e5-92d3-239859d051fd",
+                "resourcePath": "objects\\obj_MushroomHarvest\\obj_MushroomHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "87f94981-c204-406d-82fd-701343586108",
+            "Value": {
+                "id": "35af5c71-c24a-47fa-9667-6cc755dd3512",
+                "resourcePath": "sprites\\spr_Broccoli\\spr_Broccoli.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8b85e89a-513e-4095-9fa0-e8ea3ae97502",
+            "Value": {
+                "id": "1ee9f7da-d892-4f98-8920-00dc939a7339",
+                "resourcePath": "views\\8b85e89a-513e-4095-9fa0-e8ea3ae97502.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "901298c7-7171-489b-8ed3-a65248d58ac5",
+            "Value": {
+                "id": "acd99649-da0b-47f6-85d6-089c1fb091a7",
+                "resourcePath": "views\\901298c7-7171-489b-8ed3-a65248d58ac5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "92ecf1ca-b6ae-49ce-847b-cefade031792",
+            "Value": {
+                "id": "c3e8b3bf-2fb9-4548-9a82-78e5af96b3da",
+                "resourcePath": "views\\92ecf1ca-b6ae-49ce-847b-cefade031792.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "969b1e5d-812f-4eb6-a747-4a3224a38fc4",
+            "Value": {
+                "id": "b6138ba3-ed3a-450b-9e99-b019b8812a97",
+                "resourcePath": "scripts\\find_Recipe\\find_Recipe.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "96d7d68c-2fb5-4657-a3c9-99e82c19b110",
+            "Value": {
+                "id": "7fa6b75b-a333-470d-966a-b196e1649869",
+                "resourcePath": "sprites\\spr_blockMovement\\spr_blockMovement.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "970b879d-d034-4019-b4a8-a3f7f556646a",
+            "Value": {
+                "id": "1ae665b8-5305-4376-8931-3205f77fd046",
+                "resourcePath": "objects\\obj_WheatSeed\\obj_WheatSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "973ad599-d8c1-4113-8402-71e8638f8592",
+            "Value": {
+                "id": "455a31ba-f884-4597-ae8d-6c366cded110",
+                "resourcePath": "sprites\\spr_KitchenBG\\spr_KitchenBG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "997e1b18-4877-4fb5-a0c9-d721d5bae54a",
+            "Value": {
+                "id": "aa6844dd-474e-491c-a379-d55ec5b8a502",
+                "resourcePath": "objects\\obj_ExitCooking\\obj_ExitCooking.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "99b43190-aa99-43c2-85b9-9c3a9a66d432",
+            "Value": {
+                "id": "5282f7d6-4a33-4fc8-b979-fbdb4acfd664",
+                "resourcePath": "views\\99b43190-aa99-43c2-85b9-9c3a9a66d432.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9ad20096-92d1-4790-858a-df3ebb7df020",
+            "Value": {
+                "id": "53ad88b5-cc49-448d-90fc-737083b7892a",
+                "resourcePath": "objects\\obj_GreenBeanHarvest\\obj_GreenBeanHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9b7cfff4-cb9e-4abc-ac8a-3d950fafd464",
+            "Value": {
+                "id": "0b1e81e4-efd1-465c-8871-1c590b131f98",
+                "resourcePath": "views\\9b7cfff4-cb9e-4abc-ac8a-3d950fafd464.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a02308c7-6dd6-41f7-afc6-7b747fcd2608",
+            "Value": {
+                "id": "4f1e3f94-cb3c-4b7e-a256-794c27a01921",
+                "resourcePath": "objects\\obj_Truck\\obj_Truck.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a03c0cce-4a83-42e1-ac62-1e4e961b5443",
+            "Value": {
+                "id": "2c23a877-bf9d-4ce0-9728-3a6bd01e6912",
+                "resourcePath": "objects\\obj_CeleryHarvest\\obj_CeleryHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a04dded6-9fde-4dfb-8c2e-fd7bd7ea7c69",
+            "Value": {
+                "id": "967475b4-9ecc-4a1a-9754-7c936d180e0d",
+                "resourcePath": "sprites\\spr_Mound\\spr_Mound.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a2deec8a-a25b-4b24-96fb-3a2df6e74f7d",
+            "Value": {
+                "id": "fb2d0a17-9151-4a1b-8743-8b0156ea2ffd",
+                "resourcePath": "sprites\\spr_MushroomSeed\\spr_MushroomSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a30583d8-6d33-47d8-942e-c49803a62bb7",
+            "Value": {
+                "id": "7c76b2a3-ff88-4de3-9145-2fea4b8b68f1",
+                "resourcePath": "objects\\obj_OnionSeed\\obj_OnionSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a390963f-ab85-4058-9cfd-a880eba8d47e",
+            "Value": {
+                "id": "90c3d1ee-80ea-4a0e-8973-251022a74c41",
+                "resourcePath": "objects\\obj_CarrotHarvest\\obj_CarrotHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a4684837-d1be-44b5-8dc6-721c7f06b411",
+            "Value": {
+                "id": "63624f5e-1064-42c5-80f2-0648b36fef39",
+                "resourcePath": "objects\\obj_SellStand\\obj_SellStand.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a58ecc3d-15a0-4723-a338-6c9d8ab60a54",
+            "Value": {
+                "id": "19c5ce40-6242-4fee-af71-9be48877249d",
+                "resourcePath": "rooms\\Farm\\Farm.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a645f75f-ebe6-4f67-9391-166350e7b265",
+            "Value": {
+                "id": "e8356ffd-6680-4b79-9f44-9870d811e736",
+                "resourcePath": "sprites\\spr_TomatoSeed\\spr_TomatoSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "2ac71fdd-e8af-4718-a1e9-944a6ce13ffd",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a9ccce72-b7a2-4d71-9764-87788b23e1d5",
+            "Value": {
+                "id": "e3d94f8c-d26a-4493-a9eb-bda8a4eafefa",
+                "resourcePath": "sprites\\Harvest\\Harvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aa3e2ddb-254c-4131-852a-8b197a7a4664",
+            "Value": {
+                "id": "0ef07a60-c4a1-4eb7-8ca8-1163a876b8ea",
+                "resourcePath": "objects\\obj_CookingIngredient\\obj_CookingIngredient.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "abb6a52f-311a-40b1-9675-a241a7b15a1c",
+            "Value": {
+                "id": "52ef4757-db69-4d2b-9274-c41a22047a57",
+                "resourcePath": "objects\\obj_OnionHarvest\\obj_OnionHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "abfcf682-f04c-4c9e-93e4-ed0f4b1a7a9f",
+            "Value": {
+                "id": "ff1012aa-c583-4be4-9cfd-e4b0f8d1b6b0",
+                "resourcePath": "objects\\obj_CookingIngredient1\\obj_CookingIngredient1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "af0ea006-1597-486f-b70d-25f5fee4df26",
+            "Value": {
+                "id": "4eba6675-b46a-48a5-ad7b-297b4558c222",
+                "resourcePath": "sprites\\spr_AlpacaMoving\\spr_AlpacaMoving.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0397600-7b2b-4c81-886b-4a4859e79237",
+            "Value": {
+                "id": "fc5a6e92-43de-48ed-994b-5bb469660597",
+                "resourcePath": "rooms\\Menu\\Menu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b3ec5094-ad02-4950-8434-372be74b46df",
+            "Value": {
+                "id": "237bdfc5-e0ce-41ff-95aa-3f28b08bb6f1",
+                "resourcePath": "sprites\\spr_Carrot\\spr_Carrot.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b400ac99-03ac-4c8a-a900-b99938ffb0b2",
+            "Value": {
+                "id": "3fa373e6-8f80-488d-8445-c5f74a508a37",
+                "resourcePath": "objects\\obj_MushroomSoup\\obj_MushroomSoup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b58a7a16-cc9e-47bd-879a-70abf3ceaa78",
+            "Value": {
+                "id": "ec1ae68a-a672-44e7-a800-2a3c8f7a1840",
+                "resourcePath": "views\\b58a7a16-cc9e-47bd-879a-70abf3ceaa78.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b665225e-a8cc-4dc5-b08a-a935ff3820fb",
+            "Value": {
+                "id": "65000015-0c80-4323-a029-e3690cb64d3e",
+                "resourcePath": "objects\\obj_House\\obj_House.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b7cf618b-d676-47b6-9a79-89d07a40fbf0",
+            "Value": {
+                "id": "d5142cb9-c3e9-4494-8413-ba377539f103",
+                "resourcePath": "sprites\\spr_GreenBeanHarvest\\spr_GreenBeanHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b818b0c9-4324-4c46-8820-d42295fccd75",
+            "Value": {
+                "id": "d72dc369-b5df-47be-8b4f-3a963ed1d34a",
+                "resourcePath": "sprites\\spr_AsparagusHarvest\\spr_AsparagusHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b8e6ac8f-539c-4a9d-bd04-3472e09f041a",
+            "Value": {
+                "id": "65fd111e-efe3-4f51-b019-fa6c4faca4d8",
+                "resourcePath": "sprites\\spr_Wheat\\spr_Wheat.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b91af651-fb16-4e8a-bf87-0a483c02435f",
+            "Value": {
+                "id": "c815138a-9f69-4ec1-acc5-571fad5ccb9f",
+                "resourcePath": "sprites\\spr_BellPepperSeed\\spr_BellPepperSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bc8eb207-6ad4-4092-97dc-1d275108f922",
+            "Value": {
+                "id": "ba906d60-70c4-48fb-8143-b328e2099484",
+                "resourcePath": "objects\\obj_BellPepperHarvest\\obj_BellPepperHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bf0c092a-3266-4b5f-8f35-54fb1c5df965",
+            "Value": {
+                "id": "86c2906c-7074-413f-9ade-46d16248471d",
+                "resourcePath": "sprites\\spr_SpinachHarvest\\spr_SpinachHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bffa8484-94ca-41ad-9fda-0799bc7b902e",
+            "Value": {
+                "id": "24948dc7-8c39-4e0e-9d1c-59477450fecc",
+                "resourcePath": "objects\\obj_blockMovement\\obj_blockMovement.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c06ffb35-a4b0-4554-9d88-ec1e983ab7ef",
+            "Value": {
+                "id": "2719bd24-7b7c-4d81-a436-b5cadb54af52",
+                "resourcePath": "views\\c06ffb35-a4b0-4554-9d88-ec1e983ab7ef.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c0b6297a-4d6d-4d81-884f-fab28895de80",
+            "Value": {
+                "id": "c57a2d69-ddb3-4c69-97d9-9d05bb775f16",
+                "resourcePath": "sprites\\spr_Equals\\spr_Equals.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c2648317-ef24-4331-82e9-d4b2cdc43fe3",
+            "Value": {
+                "id": "1fcacb4c-41d7-4d2d-bb8e-0bd32dc7efcb",
+                "resourcePath": "objects\\obj_KeybindManager\\obj_KeybindManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c3040a55-be01-4a72-93df-042f04fbb27a",
+            "Value": {
+                "id": "d6df59f2-0a12-4f43-8e09-919435f84d8c",
+                "resourcePath": "sprites\\spr_BroccoliHarvest\\spr_BroccoliHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c6fb107b-3aa7-4c13-adfa-58aa40786e17",
+            "Value": {
+                "id": "73f5211c-0348-4595-b740-511c1ebf26ea",
+                "resourcePath": "sprites\\spr_Logo\\spr_Logo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c931f534-ac6b-4436-a32d-47ff5e712fc6",
+            "Value": {
+                "id": "a85983f2-8ecd-4784-9d2c-e6746b72f85a",
+                "resourcePath": "sprites\\spr_Plus\\spr_Plus.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c9723100-3e72-4f58-a3cc-5870309c5511",
+            "Value": {
+                "id": "d074f5bb-101a-4da7-bd79-d0d5eec0a7f6",
+                "resourcePath": "sprites\\spr_Lettuce\\spr_Lettuce.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ca7834fb-ea90-4891-9e20-687a52fa7e55",
+            "Value": {
+                "id": "9d974514-060e-49aa-b5ad-881717ddd5db",
+                "resourcePath": "sprites\\spr_CornSeed\\spr_CornSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cbf88d2a-e646-4d99-a403-bc263f68d20a",
+            "Value": {
+                "id": "bf7692d2-888a-48ca-b2fc-22cd17d123fb",
+                "resourcePath": "objects\\obj_VegetableSoup\\obj_VegetableSoup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "3675618d-2433-4810-ae35-2f26be8365e0",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ce1ce471-b5d3-4c46-849d-d340e72fdaf1",
+            "Value": {
+                "id": "41acb379-72e3-4a0f-9c73-3923d6bb11ee",
+                "resourcePath": "sprites\\spr_Darkness\\spr_Darkness.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ce4298e6-a8cf-4093-9753-a41807d6274a",
+            "Value": {
+                "id": "eed5e6a0-8d2f-4115-a991-18daf1c850d4",
+                "resourcePath": "views\\ce4298e6-a8cf-4093-9753-a41807d6274a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d1eb0bcd-0f07-4966-9db6-4396fa3f2e92",
+            "Value": {
+                "id": "899110fe-0173-4727-991a-d2ef594665c6",
+                "resourcePath": "sprites\\spr_WheatSeed\\spr_WheatSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d1f5e881-a0a1-4df1-8d45-c64cde5006c3",
+            "Value": {
+                "id": "75b199da-2c81-4fb6-8677-f9a044863e04",
+                "resourcePath": "views\\d1f5e881-a0a1-4df1-8d45-c64cde5006c3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d20d94f0-5bdc-4140-bc47-903d52a70e3e",
+            "Value": {
+                "id": "e7fe4a15-a969-4956-bef9-bda8999071f1",
+                "resourcePath": "objects\\obj_BroccoliHarvest\\obj_BroccoliHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d34c9569-3599-4b65-baee-3be865825f18",
+            "Value": {
+                "id": "2041d84b-6ee7-41c1-aded-5cf4bba03daa",
+                "resourcePath": "objects\\obj_CornChowder\\obj_CornChowder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d6a36f0a-2823-4aa4-a804-2c10e339e2c7",
+            "Value": {
+                "id": "fa106922-2bed-4b83-b97c-c14d275987c2",
+                "resourcePath": "sprites\\spr_BroccoliSeed\\spr_BroccoliSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d6e032cd-8d4f-45fe-8597-9cc00cc45ec2",
+            "Value": {
+                "id": "9e3c4c05-a5c7-4397-a842-b91869ae86f1",
+                "resourcePath": "sprites\\spr_SpinachSeed\\spr_SpinachSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d7f1dfa6-f9d4-4d17-82ec-8df945fb1092",
+            "Value": {
+                "id": "ad79bc16-7293-4fe8-8966-ca24abf132d0",
+                "resourcePath": "sprites\\spr_House\\spr_House.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "db5758f7-bfd3-4726-83c7-a3d66de9b913",
+            "Value": {
+                "id": "46327b10-0958-49f2-8426-000948d2ae51",
+                "resourcePath": "objects\\obj_PotatoSeed\\obj_PotatoSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ddb0d018-d77b-40d7-9dea-7bb3bca6eba0",
+            "Value": {
+                "id": "c45d1fc9-78a1-41f2-bb1b-93ac4b5de75d",
+                "resourcePath": "views\\ddb0d018-d77b-40d7-9dea-7bb3bca6eba0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ddd62f41-ddc3-47ed-bbd1-04199e70a9c9",
+            "Value": {
+                "id": "61ced111-c9b4-475e-bf76-3f2fb7d35c1f",
+                "resourcePath": "objects\\obj_CookingIngredient2\\obj_CookingIngredient2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ddf0e008-1225-44c7-95f3-f824580067e7",
+            "Value": {
+                "id": "5ebf0b41-014b-4781-897f-badd36830b53",
+                "resourcePath": "sprites\\spr_CelerySeed\\spr_CelerySeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ded57c07-65b5-4e28-b32f-479cf1aeee63",
+            "Value": {
+                "id": "b8ebdd80-4df4-46b1-a66e-0286920a30de",
+                "resourcePath": "sprites\\spr_AsparagusSeed\\spr_AsparagusSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "df08a985-6fac-4e16-85e6-8a8c6f80f825",
+            "Value": {
+                "id": "70f9f84d-dbad-4560-9a66-9937bc56f386",
+                "resourcePath": "objects\\obj_PotatoHarvest\\obj_PotatoHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "df37fd98-ef09-4f6f-abc9-e66968837674",
+            "Value": {
+                "id": "50e30516-17ad-44e3-a3b8-64e894b9a478",
+                "resourcePath": "sprites\\spr_CeleryHarvest\\spr_CeleryHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "df61464c-1438-45c9-8e4c-6a3345acf229",
+            "Value": {
+                "id": "2f21b7fd-5260-4038-b210-b330b579973c",
+                "resourcePath": "views\\df61464c-1438-45c9-8e4c-6a3345acf229.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e2a28f88-dbfb-4b95-97e8-b88fb73dc947",
+            "Value": {
+                "id": "13984514-7059-4d84-88cf-abb679bcf6d2",
+                "resourcePath": "views\\e2a28f88-dbfb-4b95-97e8-b88fb73dc947.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e3c5052f-62f4-41ac-b23b-ed9c60c1db4d",
+            "Value": {
+                "id": "4f2a24a2-9463-4b95-b646-75e2c24f17fd",
+                "resourcePath": "objects\\obj_SpinachSeed\\obj_SpinachSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e52d5ca3-5222-4571-bf04-c830bf5036ae",
+            "Value": {
+                "id": "ef0e9667-3384-4cbe-8309-0a21cb2e99de",
+                "resourcePath": "objects\\obj_SeedManager\\obj_SeedManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e5392422-f311-42fd-a890-c0b22ed557da",
+            "Value": {
+                "id": "99d2e628-c586-4888-98d7-99f4238b4d15",
+                "resourcePath": "sprites\\spr_GreenBean\\spr_GreenBean.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e5648166-470a-4dfd-8336-4035cf63747f",
+            "Value": {
+                "id": "cc61c221-d69d-4a7a-abe6-ea64b63277c8",
+                "resourcePath": "sprites\\spr_Corn\\spr_Corn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e5d06e5b-b3a6-473d-a771-02411780ab02",
+            "Value": {
+                "id": "235da5f1-d6c5-4887-99a3-ef00a05a9b72",
+                "resourcePath": "sprites\\spr_RoastedSquash\\spr_RoastedSquash.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e621f528-7ebe-446a-8798-4ed2e2f6766e",
+            "Value": {
+                "id": "995bd50c-402f-49b9-95e8-cf8d936dd415",
+                "resourcePath": "objects\\obj_CabbageSeed\\obj_CabbageSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eae0675d-d7ae-47c6-ab1c-d10648abbb5b",
+            "Value": {
+                "id": "16bc905d-44cb-41a7-87ab-38091ce642af",
+                "resourcePath": "views\\eae0675d-d7ae-47c6-ab1c-d10648abbb5b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ee37cbc4-e07e-46cb-b9ea-9daa3785e742",
+            "Value": {
+                "id": "83fd7f3b-e4ed-4e6e-bed7-2e1915040740",
+                "resourcePath": "objects\\obj_CabbageSoup\\obj_CabbageSoup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1d4a469-5439-4adc-8158-53b57dd04095",
+            "Value": {
+                "id": "cc6b7b8a-5754-4382-8fc1-6f0802497c8f",
+                "resourcePath": "objects\\obj_GreenBeanSeed\\obj_GreenBeanSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f243601a-0552-43eb-bb25-0d49ebca7b1d",
+            "Value": {
+                "id": "afa47cf2-7915-4585-af8c-6e46d1ab24a2",
+                "resourcePath": "sprites\\spr_GreenBeanSeed\\spr_GreenBeanSeed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f37e1862-cb01-479a-90c7-d4848619abb5",
+            "Value": {
+                "id": "24fe8ece-4633-4729-862f-a0ff84b8e7c8",
+                "resourcePath": "sprites\\spr_VegetableSoup\\spr_VegetableSoup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f3a9c86e-d254-4645-a8be-43d398f6f6bd",
+            "Value": {
+                "id": "f990b370-c29a-41d0-b644-917ff4fac01d",
+                "resourcePath": "views\\f3a9c86e-d254-4645-a8be-43d398f6f6bd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "a2b20fed-1eda-4269-8123-481af13e573e",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f8815cc5-850d-4591-b99b-0cb14fc5b856",
+            "Value": {
+                "id": "43de70c8-e6f3-4451-8517-c5d14c8ac3fe",
+                "resourcePath": "views\\f8815cc5-850d-4591-b99b-0cb14fc5b856.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fa8a3537-8e5c-46c1-abee-9e827bc0fa49",
+            "Value": {
+                "id": "56049e89-8d04-4e63-8d03-098d5e0a05ef",
+                "resourcePath": "objects\\obj_TomatoHarvest\\obj_TomatoHarvest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fab6dd19-3ccc-42c1-8507-19f001204348",
+            "Value": {
+                "id": "c8317838-b63f-468c-a07d-de3ba509df29",
+                "resourcePath": "views\\fab6dd19-3ccc-42c1-8507-19f001204348.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fad36df9-04d4-4576-839b-222f2725518a",
+            "Value": {
+                "id": "442ff41c-8529-4199-a38a-9e2a0189837e",
+                "resourcePath": "views\\fad36df9-04d4-4576-839b-222f2725518a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fc722fd5-5c9b-4f64-85c8-ac08c8e2e001",
+            "Value": {
+                "id": "ac82acbf-526d-49ef-822e-86af1f1fd110",
+                "resourcePath": "sprites\\spr_MushroomHarvest\\spr_MushroomHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "feeb5ef1-5d80-4216-90fb-8b574a771305",
+            "Value": {
+                "id": "94c9bc16-6b5f-4b73-b7df-6ee9af0231cc",
+                "resourcePath": "sprites\\spr_Pot\\spr_Pot.yy",
+                "resourceType": "GMSprite"
+            }
+        }
+    ],
+    "script_order": [
+        "969b1e5d-812f-4eb6-a747-4a3224a38fc4"
+    ],
+    "tutorial": ""
+}
