@@ -10,3 +10,4 @@ global.daycycle = cycles.day;
 cyclechange = true;
 
 alarm[0] = 1;
+

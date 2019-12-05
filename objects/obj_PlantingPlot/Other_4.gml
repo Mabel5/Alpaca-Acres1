@@ -1,7 +1,7 @@
-if room = 1 {
+if room = 2 {
 	visible = true
 }
 
-if room = 2 { 
+if room = 3 { 
 	visible = false
 }

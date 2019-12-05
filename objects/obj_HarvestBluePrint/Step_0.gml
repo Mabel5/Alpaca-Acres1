@@ -1,4 +1,4 @@
-if room = 2 {
+if room = 3 {
 	if (global.selectedPlant.sprite_index == self.sprite_index) {
 			isSelected = true;
 		} 

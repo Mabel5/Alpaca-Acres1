@@ -4,6 +4,7 @@ if position_meeting(mouse_x, mouse_y, self) {
 		if (growthStage == 0 && sprite_index = spr_Mound) {
 			currentPlant = global.selectedSeed
 			sprite_index = global.selectedSeed.plant
+			audio_play_sound(plantingCrops,1,0)
 			global.selectedSeed.seeds--;
 			alarm[0] = currentPlant.growthRate
 			

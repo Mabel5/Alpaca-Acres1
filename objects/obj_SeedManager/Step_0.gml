@@ -1,4 +1,4 @@
-if room = 1 {
+if room = 2 {
 	x = mouse_x;
 	y = mouse_y;
 

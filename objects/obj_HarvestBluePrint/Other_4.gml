@@ -1,7 +1,7 @@
-if room = 1 {
+if room = 2 {
 	x = FarmX
 	y = FarmY
-} else if room = 2 {
+} else if room = 3 {
 	x = CookingX
 	y = CookingY
 }

@@ -1,4 +1,4 @@
-if (room = 2) {
+if (room = 3) {
 	if (harvestArrayIndex == (array_length_1d(harvestArray) - 1)) {
 		harvestArrayIndex = 0
 	}
