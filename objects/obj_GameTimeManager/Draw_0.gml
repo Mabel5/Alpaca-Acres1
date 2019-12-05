@@ -11,3 +11,4 @@ if (global.daycycle == cycles.day) {
 } else {
 	draw_text_transformed_color(x+540, 50, "NightTime", 2, 2, 0, c_white,c_white,c_white,c_white,1);
 }
+

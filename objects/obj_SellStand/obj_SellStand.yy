@@ -4,12 +4,51 @@
     "mvc": "1.0",
     "name": "obj_SellStand",
     "eventList": [
-        
+        {
+            "id": "b2c0990d-3b25-4ec7-b2ff-5d008cbdbccc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "a4684837-d1be-44b5-8dc6-721c7f06b411"
+        },
+        {
+            "id": "1b9b7b01-c5df-463a-87c3-e1b57411024d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "a4684837-d1be-44b5-8dc6-721c7f06b411"
+        },
+        {
+            "id": "d7e5be87-34cc-4b51-bb93-788780a51d23",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "a4684837-d1be-44b5-8dc6-721c7f06b411"
+        },
+        {
+            "id": "124a23a0-2e90-4317-ad68-60db5a91b4de",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "27575d96-8040-40ef-a18f-52b5e682726c",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "a4684837-d1be-44b5-8dc6-721c7f06b411"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": false,
+    "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
@@ -24,6 +63,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "34d6850f-ab29-4442-b955-da97b7c3a6b7",
+    "spriteId": "23278772-260f-4e14-bc34-cfaf6b994afa",
     "visible": true
 }
