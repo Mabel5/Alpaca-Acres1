@@ -99,7 +99,7 @@
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
-            "hierarchyVisible": true,
+            "hierarchyVisible": false,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -115,7 +115,7 @@
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
             "userdefined_depth": false,
-            "visible": true
+            "visible": false
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
@@ -481,7 +481,7 @@
                     "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
                     "name": "Mounds",
                     "id": "5a0bc66d-600b-4303-b62c-4550b048b265",
-                    "depth": 1400,
+                    "depth": 1401,
                     "grid_x": 32,
                     "grid_y": 32,
                     "hierarchyFrozen": false,
@@ -539,7 +539,7 @@
                     "m_serialiseFrozen": false,
                     "modelName": "GMRInstanceLayer",
                     "mvc": "1.0",
-                    "userdefined_depth": false,
+                    "userdefined_depth": true,
                     "visible": true
                 }
             ],
@@ -554,7 +554,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "House",
             "id": "fd9099f1-1e34-43ed-8d2f-83b552e68d9d",
-            "depth": 1500,
+            "depth": 1501,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -580,7 +580,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Truck",
             "id": "3572a300-3b6c-44fb-a316-ef993e0d5637",
-            "depth": 1600,
+            "depth": 1601,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -609,7 +609,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 1700,
+            "depth": 1701,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
