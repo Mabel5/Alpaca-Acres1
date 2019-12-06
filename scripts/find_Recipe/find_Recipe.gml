@@ -18,7 +18,11 @@ else if (ingredient1 == obj_OnionHarvest && ingredient2 == obj_CarrotHarvest && 
 else if (ingredient1 == obj_OnionHarvest && ingredient2 == obj_CeleryHarvest && ingredient3 == obj_MushroomHarvest) {
 	return obj_MushroomSoup
 }
-	
+
+else if (ingredient1 == obj_WheatHarvest && ingredient2 == obj_LettuceHarvest && ingredient3 == obj_TomatoHarvest) {
+	return obj_LTSandwich
+}
+
 else if (ingredient1 == obj_CornHarvest && ingredient2 == obj_OnionHarvest && ingredient3 == obj_CeleryHarvest) {
 	return obj_CreamedCorn
 }
@@ -27,18 +31,46 @@ else if (ingredient1 == obj_CornHarvest && ingredient2 == obj_CarrotHarvest && i
 	return obj_CornChowder
 }
 	
+else if (ingredient1 == obj_PotatoHarvest && ingredient2 == obj_CeleryHarvest && ingredient3 == obj_OnionHarvest) {
+	return obj_PotatoSalad
+}
+
 else if (ingredient1 == obj_PotatoHarvest && ingredient2 == obj_OnionHarvest && ingredient3 == obj_CarrotHarvest) {
 	return obj_PotatoChowder
 }
+
+else if (ingredient1 == obj_BellPepperHarvest && ingredient2 == obj_OnionHarvest && ingredient3 == obj_TomatoHarvest) {
+	return obj_StuffedPeppers
+}
 	
-else if (ingredient1 == obj_BroccoliHarvest && ingredient2 == obj_AsparagusHarvest && ingredient3 == obj_BellPepperHarvest) {
+else if (ingredient1 == obj_CabbageHarvest && ingredient2 == obj_OnionHarvest && ingredient3 == obj_CarrotHarvest) {
 	return obj_CabbageSoup
 }
 	
+else if (ingredient1 == obj_CabbageHarvest && ingredient2 == obj_OnionHarvest && ingredient3 == obj_CeleryHarvest) {
+	return obj_FriedCabbage
+}
+
+else if (ingredient1 == obj_GreenBeanHarvest && ingredient2 == obj_MushroomHarvest && ingredient3 == obj_OnionHarvest) {
+	return obj_GreenBeanCasserole
+}
+
 else if (ingredient1 == obj_ButterNutsHarvest && ingredient2 == obj_OnionHarvest && ingredient3 == obj_CeleryHarvest) {
 	return obj_RoastedSquash
 }
-	
+
+else if (ingredient1 == obj_SpinachHarvest && ingredient2 == obj_TomatoHarvest && ingredient3 == obj_OnionHarvest) {
+	return obj_SpinachTomatoPasta
+}
+
+else if (ingredient1 == obj_AsparagusHarvest && ingredient2 == obj_OnionHarvest && ingredient3 == obj_MushroomHarvest) {
+	return obj_AsparagusMushrooms
+}
+
+else if (ingredient1 == obj_BroccoliHarvest && ingredient2 == obj_MushroomHarvest && ingredient3 == obj_OnionHarvest) {
+	return obj_BroccoliCasserole
+}
+
 else {
 	return noone
 }

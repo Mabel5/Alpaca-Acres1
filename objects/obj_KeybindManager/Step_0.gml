@@ -19,4 +19,25 @@ if(keyboard_check_pressed(vk_f7)){
 		obj_TomatoSeed.seeds = 50
 		obj_WheatSeed.seeds = 50
 		obj_OnionSeed.seeds = 50
+		
+		obj_BroccoliHarvest.harvestCount = 50;
+		obj_AsparagusHarvest.harvestCount = 50;
+		obj_BellPepperHarvest.harvestCount = 50;
+		obj_ButterNutsHarvest.harvestCount = 50;
+		obj_CabbageHarvest.harvestCount = 50;
+		obj_CarrotHarvest.harvestCount = 50;
+		obj_CeleryHarvest.harvestCount = 50;
+		obj_CornHarvest.harvestCount = 50;
+		obj_GreenBeanHarvest.harvestCount = 50;
+		obj_LettuceHarvest.harvestCount = 50;
+		obj_MushroomHarvest.harvestCount = 50;
+		obj_PotatoHarvest.harvestCount = 50;
+		obj_SpinachHarvest.harvestCount = 50;
+		obj_TomatoHarvest.harvestCount = 50;
+		obj_WheatHarvest.harvestCount = 50;
+		obj_OnionHarvest.harvestCount = 50;
+}
+
+if(keyboard_check_pressed(vk_control)){
+	global.hourtime += 1
 }

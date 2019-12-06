@@ -13,7 +13,7 @@ if position_meeting(mouse_x, mouse_y, self) {
 	} 
 	
 	else if (mouse_check_button_pressed(mb_right)) {
-		if (growthStage == 2) {
+		if (growthStage == 3) {
 			sprite_index = spr_Mound;
 			growthStage = 0;
 		
