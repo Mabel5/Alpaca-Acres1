@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "058be955-8167-4396-b571-53ecdade268d",
+            "Value": {
+                "id": "2544d95a-9aa9-4cd7-91af-bac4a233777b",
+                "resourcePath": "sprites\\spr_RecipeList\\spr_RecipeList.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "08e2c8d8-d6af-47a2-a22d-07e3d2eba734",
             "Value": {
                 "id": "8933d657-7c84-42c9-810a-f077a2c7bb2f",
@@ -180,6 +188,14 @@
                 "id": "36bdbe0a-b021-4c96-976c-417e51f2b2aa",
                 "resourcePath": "rooms\\Cooking\\Cooking.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "12e9c442-8d38-4628-ad52-41998212c316",
+            "Value": {
+                "id": "9e1062bf-3083-4ceb-96e7-11b83a2a0bff",
+                "resourcePath": "sprites\\spr_RecipeListButton\\spr_RecipeListButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -972,6 +988,14 @@
                 "id": "1ee9f7da-d892-4f98-8920-00dc939a7339",
                 "resourcePath": "views\\8b85e89a-513e-4095-9fa0-e8ea3ae97502.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8b942f74-0279-48f6-8387-ae9b023e15fd",
+            "Value": {
+                "id": "9a7a5ba2-3684-4742-b542-06528fc22936",
+                "resourcePath": "objects\\obj_RecipeList\\obj_RecipeList.yy",
+                "resourceType": "GMObject"
             }
         },
         {
