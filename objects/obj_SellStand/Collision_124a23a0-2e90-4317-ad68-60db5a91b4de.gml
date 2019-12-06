@@ -1,5 +1,5 @@
 
-if (canSell) {
+if (canSell && hasEnteredCookingBefore) {
 	for (i = 0; i < array_length_1d(dishArray); i++) {
 		scoreValue += (dishArray[i].total * 5);
 	}
@@ -8,5 +8,6 @@ if (canSell) {
 		dishArray[i].total = 0
 	}
 	
-	canSell = false
 }
+
+canSell = false

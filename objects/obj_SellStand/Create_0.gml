@@ -1,5 +1,5 @@
 dishArray = [
-	//obj_CabbageSoup,
+	obj_CabbageSoup,
 	obj_CornChowder,
 	obj_CreamedCorn,
 	obj_MushroomSoup,
@@ -18,3 +18,4 @@ dishArray = [
 ];
 
 scoreValue = 0
+hasEnteredCookingBefore = false
