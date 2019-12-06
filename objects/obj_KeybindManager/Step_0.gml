@@ -36,6 +36,8 @@ if(keyboard_check_pressed(vk_f7)){
 		obj_TomatoHarvest.harvestCount = 50;
 		obj_WheatHarvest.harvestCount = 50;
 		obj_OnionHarvest.harvestCount = 50;
+		
+		obj_SellStand.currentScore = 45;
 }
 
 if(keyboard_check_pressed(vk_control)){

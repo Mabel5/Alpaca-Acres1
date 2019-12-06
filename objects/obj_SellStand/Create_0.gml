@@ -17,5 +17,5 @@ dishArray = [
 	obj_BroccoliCasserole
 ];
 
-scoreValue = 0
+currentScore = 0
 hasEnteredCookingBefore = false

@@ -1,7 +1,7 @@
 
 if (canSell && hasEnteredCookingBefore) {
 	for (i = 0; i < array_length_1d(dishArray); i++) {
-		scoreValue += (dishArray[i].total * 5);
+		currentScore += (dishArray[i].total * 5);
 	}
 	
 	for (i = 0; i < array_length_1d(dishArray); i++) {
