@@ -32,6 +32,14 @@
             "objectId": "0f69848d-bab6-482e-885e-2c4d045c7735",
             "propertyId": "205ef043-3fda-45c7-b75e-6d26091ff930",
             "value": "spr_Onion"
+        },
+        {
+            "id": "2a1398f9-fff2-4a69-9581-5a80fa9b318e",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "0f69848d-bab6-482e-885e-2c4d045c7735",
+            "propertyId": "2d30c069-934c-4434-9af4-151a7ec7ddea",
+            "value": "Onion"
         }
     ],
     "parentObjectId": "0f69848d-bab6-482e-885e-2c4d045c7735",

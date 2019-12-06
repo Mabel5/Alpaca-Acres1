@@ -107,6 +107,20 @@
             "value": "0",
             "varName": "growthRate",
             "varType": 0
+        },
+        {
+            "id": "2d30c069-934c-4434-9af4-151a7ec7ddea",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Broccoli",
+            "varName": "name",
+            "varType": 2
         }
     ],
     "solid": false,

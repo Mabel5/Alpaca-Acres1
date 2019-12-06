@@ -40,6 +40,14 @@
             "objectId": "0f69848d-bab6-482e-885e-2c4d045c7735",
             "propertyId": "4ca41563-0fd9-409f-a63f-7f8cf11da97b",
             "value": "200"
+        },
+        {
+            "id": "2bd100de-c477-4ae8-8ee2-9e733a6da4fb",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "0f69848d-bab6-482e-885e-2c4d045c7735",
+            "propertyId": "2d30c069-934c-4434-9af4-151a7ec7ddea",
+            "value": "Celery"
         }
     ],
     "parentObjectId": "0f69848d-bab6-482e-885e-2c4d045c7735",
