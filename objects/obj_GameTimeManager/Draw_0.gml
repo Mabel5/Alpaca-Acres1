@@ -7,8 +7,8 @@ if (global.minutetime >= 30) {
 }
 
 if (global.daycycle == cycles.day) {
-	draw_text_transformed_color(x+540, 50, "DayTime", 2, 2, 0, c_white,c_white,c_white,c_white,1);
+	draw_text_transformed_color(x+540, 50, "Day", 2, 2, 0, c_white,c_white,c_white,c_white,1);
 } else {
-	draw_text_transformed_color(x+540, 50, "NightTime", 2, 2, 0, c_white,c_white,c_white,c_white,1);
+	draw_text_transformed_color(x+540, 50, "Night", 2, 2, 0, c_white,c_white,c_white,c_white,1);
 }
 
