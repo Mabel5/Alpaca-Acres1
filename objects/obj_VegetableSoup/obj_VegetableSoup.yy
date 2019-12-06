@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "obj_VegetableSoup",
     "eventList": [
-        {
-            "id": "66593d0d-7926-4ef7-934b-deab81a35f8c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "cbf88d2a-e646-4d99-a403-bc263f68d20a"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
