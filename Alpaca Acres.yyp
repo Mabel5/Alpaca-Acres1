@@ -103,14 +103,6 @@
             }
         },
         {
-            "Key": "0b501745-b2db-41b0-8399-220ff384e30e",
-            "Value": {
-                "id": "fc5912b7-8e71-47fe-a5bc-caaf8a41e234",
-                "resourcePath": "sounds\\pianoloop\\pianoloop.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "0b9900ca-9b8f-43c6-af1f-9d13a4423031",
             "Value": {
                 "id": "dffacf01-6f24-42aa-a5ba-74d4c44dc78c",

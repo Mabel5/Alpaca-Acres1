@@ -1,7 +1,7 @@
 if keyboard_check(vk_down) || keyboard_check(vk_up) || keyboard_check(vk_right) || keyboard_check(vk_left) || keyboard_check(ord("A")) || keyboard_check(ord("W")) || keyboard_check(ord("S")) || keyboard_check(ord("D")){
 
 	sprite_index = spr_AlpacaMoving
-	
+	//audio_play_sound(grassyfootsteps,1,0)
 	if keyboard_check(vk_down) || keyboard_check(ord("S")){
 		y += 2
 	}
